@@ -1,3 +1,3 @@
 # showing
-showing various items
-showing something else
+- showing various items
+- showing something else
